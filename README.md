@@ -7,6 +7,7 @@ Supported devices:
 - Lenovo Tab M10 HD (lenovo-tbx505x)
 - Fossil Gen 6 (fossil-hoki)
 - HMD Global Nokia 4.2 (nokia-panther)
+- Oppo Realme 2 (RMX1805/RMX1809) / C1 (RMX1811)
 
 Used for lk2nd and mainline kernel.
 

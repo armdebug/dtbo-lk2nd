@@ -11,3 +11,5 @@ dtc -O dtb -o sdm429-fossil-hoki.dtbo -b 0 -@ sdm429-fossil-hoki.dts
 mkdtboimg cfg_create dtbo-fossil-hoki.img dtboimg-fossil-hoki.cfg
 dtc -O dtb -o sdm439-nokia-panther.dtbo -b 0 -@ sdm439-nokia-panther.dts
 mkdtboimg cfg_create dtbo-nokia-panther.img dtboimg-nokia-panther.cfg
+dtc -O dtb -o sdm450-oppo-rmx1805.dtbo -b 0 -@ sdm450-oppo-rmx1805.dts
+mkdtboimg cfg_create dtbo-oppo-rmx1805.img dtboimg-oppo-rmx1805.cfg
